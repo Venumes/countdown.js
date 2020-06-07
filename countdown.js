@@ -16,7 +16,7 @@ LeadingZero = true;
 DisplayFormat = "%%D%% Days - %%H%% Hours - %%M%% Minutes - %%S%% Seconds";
 FinishMessage = "It is finally here!";
 </script>
-<script language="JavaScript" src="https:/venum.blutu.es/test/res/js/countdown.js"></script>
+<script language="JavaScript" src="https://github.com/Venumes/public/blob/master/countdown.js"></script>
 */
 
 function calcage(secs, num1, num2) {
